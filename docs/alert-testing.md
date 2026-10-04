@@ -49,18 +49,6 @@ sudo apt update
 sudo apt install -y stress-ng
 ```
 
-### Amazon Linux/RHEL-based systems
-
-```bash
-sudo dnf install -y stress-ng
-```
-
-If `dnf` is unavailable:
-
-```bash
-sudo yum install -y stress-ng
-```
-
 ## 4. Run the Project Script
 
 The repository contains:
